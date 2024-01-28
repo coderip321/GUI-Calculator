@@ -25,4 +25,4 @@ Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or want to contribute to the project, feel free to open an issue or create a pull request.
 
 License
-This calculator is licensed under the MIT License.
+This calculator is licensed under the GNU License
